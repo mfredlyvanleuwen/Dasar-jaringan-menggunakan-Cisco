@@ -14,3 +14,8 @@ C. Cisco 03
 C. Cisco 04
 
 <img width="406" alt="Cisco04" src="https://github.com/mfredlyvanleuwen/Dasar-jaringan-menggunakan-Cisco/assets/109521407/40649576-69c4-4b4f-8e04-22f1157d6b31">
+
+D. Cisco05
+
+<img width="389" alt="Cisco05" src="https://github.com/mfredlyvanleuwen/Dasar-jaringan-menggunakan-Cisco/assets/109521407/797ec7d0-17ac-4aab-b002-f1aba307fccc">
+
